@@ -9,18 +9,6 @@
         </nav>
 
         <div class="container">
-            <div class="tile is-ancestor">
-                <div class="tile is-3">
-                    <box title="Meeting room lights">
-                        <klimaat></klimaat>
-                    </box>
-                </div>
-                <div class="tile is-9">
-                    <box title="Sonos public address system">
-                        <public-address></public-address>
-                    </box>
-                </div>
-            </div>
         </div>
     </div>
 </template>
