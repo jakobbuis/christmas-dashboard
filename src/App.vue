@@ -27,19 +27,19 @@ export default {
         return {
             songs: [
                 [
-                {"title": "Sfeer I", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "normal"},
-                {"title": "Sfeer II", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "normal"},
-                {"title": "Sfeer III", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "normal"},
+                    {"title": "Sfeer I", "id": "7uwYsdCMzNkBrJDYgJ2NXu", "type": "normal"},
+                    {"title": "Sfeer II", "id": "0QPYn15U8IQHKcH2LDfrek", "type": "normal"},
+                    {"title": "Sfeer III", "id": "0bYg9bo50gSsH3LtXe2SQn", "type": "normal"},
                 ],
                 [
-                {"title": "Sfeer IV", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "normal"},
-                {"title": "Sfeer V", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "normal"},
-                {"title": "Sfeer VI", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "normal"},
+                    {"title": "Sfeer IV", "id": "4DQ920CEDAOzyxeWxoidkN", "type": "normal"},
+                    {"title": "Sfeer V", "id": "1hvpDAxZPKjKztOc72sv06", "type": "normal"},
+                    {"title": "Sfeer VI", "id": "03nW5PNwnXBQlgJMJ7pPZ0", "type": "normal"},
                 ],
                 [
-                {"title": "Meer sfeer!", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "excessive"},
-                {"title": "MAXIMALE sfeer!!", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "excessive"},
-                {"title": "SFEER OVERLOAD!!!1", "id": "4Np5xnWc3vYfosnB6xlsTo", "type": "excessive"},
+                    {"title": "Meer sfeer!", "id": "5a1iz510sv2W9Dt1MvFd5R", "type": "excessive"},
+                    {"title": "MAXIMALE sfeer!!", "id": "4fzyvSu73BhGvi96p2zwjL", "type": "excessive"},
+                    {"title": "SFEER OVERLOAD!!!1", "id": "5rgTXjUWeNTEJh578O7GCc", "type": "excessive"},
                 ],
             ],
         };
